@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://saldemor.github.io/sitemap
+Sitemap: https://saldemor.github.io/app/sitemap
+Sitemap: https://saldemor.github.io/assets/sitemap
+Sitemap: https://saldemor.github.io/css/sitemap
+Sitemap: https://saldemor.github.io/includes/sitemap
+Sitemap: https://saldemor.github.io/item/sitemap
+Sitemap: https://saldemor.github.io/src/sitemap
